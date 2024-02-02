@@ -1,16 +1,114 @@
-### Hi there 👋
+<!-- Header Section -->
+<p align="center">
+ 
+</p>
+<h1 align="center">Hi there! 👋 I'm Ram Vijay Yadav</h1>
+<p>
+  
+Motivated and enthusiastic Full Stack Software Engineer with a proven track record of success in  projects. Experienced in the latest technologies, adept at efficient team management, showcasing both technical and leadership skills. Eager to bring expertise to new challenges. Open to new opportunities and collaborations.
+</p>
 
-<!--
-**12345rams/12345rams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Connect Section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/ram-vijay-yadav-a777b4272">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="https://github.com/12345rams">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Follow-green?style=flat-square&logo=github">
+  </a>
+  <a href="mailto:vijay9005442298@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail">
+  </a>
+  <a href="tel:+919569592952">
+    <img alt="Mobile" src="https://img.shields.io/badge/Mobile-Call-brightgreen?style=flat-square&logo=phone">
+  </a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Projects Section -->
+## 🚀 Projects
+
+### EwasteCare | [Live Demo](https://e-wastecare.onrender.com/) | [GitHub](https://github.com/12345rams/ewastecare)
+- Comprehensive web application for buying/selling electronic items, locating recycling facilities, and building a sustainability-focused community.
+- Technologies: HTML, CSS, JavaScript, Node.js, MongoDB, Google Maps API.
+
+### Indiamart E-commerce Platform | [GitHub](https://github.com/12345rams/ecommerce)
+- Feature-rich e-commerce website with user authentication, social login, cookie management, and Redux state management.
+- Technologies: Node.js, MongoDB, Redux, Google Sign-In.
+
+### URL-Checker | [GitHub](https://github.com/12345rams/ecommerce)
+- Tech Stack: Node.js, [Frontend Tech], [MONGODB], DataForSEO API, HTML5/CSS3/JS
+- Features: SEO Analysis, Dynamic Resource Loading, Browser-Like Rendering
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://www.linkedin.com/in/ram-vijay-yadav-a777b4272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritish134" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/vijay9005442298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ritish134" height="30" width="40" /></a>
+<a href="https://leetcode.com/RamVijayYadav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ramvijay" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ramvijay2406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ritish134" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <p align="left">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+
+</p>
+
+</p>
+
+<!-- Experience Section -->
+## 💼 Experience
+
+### Web Developer Intern | [Toriox Data](https://torioxdata.net/)
+- **Duration:** Sept 5, 2023 - Present
+- **Location:** Remote
+- Leading a team in web development projects with a diverse tech stack including JavaScript, jQuery, MySQL, PHP, Bootstrap, and security implementation.
+- Contributing to database management and optimization using MySQL.
+
+### Open Source Contributor - Hacktoberfest
+- **Duration:** Oct 2023
+- Actively participated in Hacktoberfest, contributing to various open source projects and collaborating within the global developer community.
+- Demonstrated strong problem-solving skills using Git and GitHub for efficient code management.
+
+<!-- Achievements Section -->
+## 🏆 Achievements
+
+- Two times Winner in NIT HACKATHON. [Certificate](https://drive.google.com/file/d/1dPS9Z9Rx-P8AGrEnAb83jQei7a1RBkg8/view?usp=drivesdk/)
+- Reliance Foundation Scholar.
+- Solved 300+ problems on [LeetCode](https://leetcode.com/RamVijayYadav/).
+- Solved 100+ problems on [Geeksforgeeks](https://auth.geeksforgeeks.org/user/ramvijay2406/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user).
+
+<!-- Contact Section -->
+## 📫 Let's Connect!
+
+Feel free to reach out to me at vijay9005442298@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/ram-vijay-yadav-a777b4272).
+Let's collaborate and build something awesome! 🚀
