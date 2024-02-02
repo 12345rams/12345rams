@@ -89,7 +89,7 @@ Motivated and enthusiastic Full Stack Software Engineer with a proven track reco
 ## 💼 Experience
 
 ### Web Developer Intern | [Toriox Data](https://torioxdata.net/)
-- **Duration:** Sept 5, 2023 - Present
+- **Duration:** Sept 5, 2023 - jan 2024
 - **Location:** Remote
 - Leading a team in web development projects with a diverse tech stack including JavaScript, jQuery, MySQL, PHP, Bootstrap, and security implementation.
 - Contributing to database management and optimization using MySQL.
