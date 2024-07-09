@@ -1,12 +1,7 @@
 <!-- Header Section -->
-<p align="center">
- 
-</p>
+<p align="center"></p>
 <h1 align="center">Hi there! 👋 I'm Ram Vijay Yadav</h1>
-<p>
-  
-Motivated and enthusiastic Full Stack Software Engineer with a proven track record of success in  projects. Experienced in the latest technologies, adept at efficient team management, showcasing both technical and leadership skills. Eager to bring expertise to new challenges. Open to new opportunities and collaborations.
-</p>
+<p>Motivated and enthusiastic Full Stack Software Engineer with a proven track record of success in projects. Experienced in the latest technologies, adept at efficient team management, showcasing both technical and leadership skills. Eager to bring expertise to new challenges. Open to new opportunities and collaborations.</p>
 
 <!-- Connect Section -->
 <p align="center">
@@ -24,7 +19,6 @@ Motivated and enthusiastic Full Stack Software Engineer with a proven track reco
   </a>
 </p>
 
-
 <!-- Projects Section -->
 ## 🚀 Projects
 
@@ -37,59 +31,37 @@ Motivated and enthusiastic Full Stack Software Engineer with a proven track reco
 - Technologies: Node.js, MongoDB, Redux, Google Sign-In.
 
 ### URL-Checker | [GitHub](https://github.com/12345rams/ecommerce)
-- Tech Stack: Node.js, [Frontend Tech], [MONGODB], DataForSEO API, HTML5/CSS3/JS
+- Tech Stack: Node.js, [Frontend Tech], MongoDB, DataForSEO API, HTML5/CSS3/JS
 - Features: SEO Analysis, Dynamic Resource Loading, Browser-Like Rendering
 
-
+<!-- Connect Section -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href="https://www.linkedin.com/in/ram-vijay-yadav-a777b4272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritish134" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/vijay9005442298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ritish134" height="30" width="40" /></a>
-<a href="https://leetcode.com/RamVijayYadav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ramvijay" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ramvijay2406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ritish134" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ram-vijay-yadav-a777b4272" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/vijay9005442298" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
+  <a href="https://leetcode.com/RamVijayYadav/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/ramvijay2406" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" /></a>
 </p>
 
+<!-- Languages and Tools Section -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-
-</p>
-
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
+  <a href="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
 </p>
 
 <!-- Experience Section -->
 ## 💼 Experience
 
 ### Web Developer Intern | [Toriox Data](https://torioxdata.net/)
-- **Duration:** Sept 5, 2023 - jan 2024
+- **Duration:** Sept 5, 2023 - Jan 2024
 - **Location:** Remote
 - Leading a team in web development projects with a diverse tech stack including JavaScript, jQuery, MySQL, PHP, Bootstrap, and security implementation.
 - Contributing to database management and optimization using MySQL.
@@ -101,15 +73,13 @@ Motivated and enthusiastic Full Stack Software Engineer with a proven track reco
 
 <!-- Achievements Section -->
 ## 🏆 Achievements
- \item Winner of NIT Hackathon (twice). \href{https://drive.google.com/file/d/1dPS9Z9Rx-P8AGrEnAb83jQei7a1RBkg8/view?usp=drivesdk}{(Certificate)}
-    \item 3-star rating on CodeChef. \href{https://www.codechef.com/users/vijay900}{(CodeChef)}
-    \item 1300+ rating on Codeforces. \href{https://codeforces.com/profile/ramvijay_24}{(Codeforces)}
-    \item 1800+ rating on LeetCode. \href{https://leetcode.com/RamVijayYadav/}{(LeetCode)}
-    \item Reliance Foundation Scholar.
-
+- Winner of NIT Hackathon (twice). [Certificate](https://drive.google.com/file/d/1dPS9Z9Rx-P8AGrEnAb83jQei7a1RBkg8/view?usp=drivesdk)
+- 3-star rating on CodeChef. [CodeChef](https://www.codechef.com/users/ramvijay_24)
+- 1300+ rating on Codeforces. [Codeforces](https://codeforces.com/profile/ramvijay_24)
+- 1800+ rating on LeetCode. [LeetCode](https://leetcode.com/RamVijayYadav/)
+- Reliance Foundation Scholar.
 
 <!-- Contact Section -->
 ## 📫 Let's Connect!
 
-Feel free to reach out to me at vijay9005442298@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/ram-vijay-yadav-a777b4272).
-Let's collaborate and build something awesome! 🚀
+Feel free to reach out to me at vijay9005442298@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/ram-vijay-yadav-a777b4272). 
