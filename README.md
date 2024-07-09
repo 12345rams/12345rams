@@ -101,11 +101,12 @@ Motivated and enthusiastic Full Stack Software Engineer with a proven track reco
 
 <!-- Achievements Section -->
 ## 🏆 Achievements
+ \item Winner of NIT Hackathon (twice). \href{https://drive.google.com/file/d/1dPS9Z9Rx-P8AGrEnAb83jQei7a1RBkg8/view?usp=drivesdk}{(Certificate)}
+    \item 3-star rating on CodeChef. \href{https://www.codechef.com/users/vijay900}{(CodeChef)}
+    \item 1300+ rating on Codeforces. \href{https://codeforces.com/profile/ramvijay_24}{(Codeforces)}
+    \item 1800+ rating on LeetCode. \href{https://leetcode.com/RamVijayYadav/}{(LeetCode)}
+    \item Reliance Foundation Scholar.
 
-- Two times Winner in NIT HACKATHON. [Certificate](https://drive.google.com/file/d/1dPS9Z9Rx-P8AGrEnAb83jQei7a1RBkg8/view?usp=drivesdk/)
-- Reliance Foundation Scholar.
-- Solved 300+ problems on [LeetCode](https://leetcode.com/RamVijayYadav/).
-- Solved 100+ problems on [Geeksforgeeks](https://auth.geeksforgeeks.org/user/ramvijay2406/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user).
 
 <!-- Contact Section -->
 ## 📫 Let's Connect!
