@@ -21,7 +21,7 @@
 
 <!-- Projects Section -->
 ## 🚀 Projects
-### Remote Team Collaboration Tool | [Live Demo](https://remote-theta.vercel.app/)[GitHub](https://github.com/12345rams/remote)
+### Remote Team Collaboration Tool | [Live Demo]| (https://remote-theta.vercel.app/)[GitHub](https://github.com/12345rams/remote)
 - A comprehensive tool for remote team management, featuring user roles, task assignments, project tracking, and progress monitoring. Integrated with Spring Security for enhanced security and authentication.
 - Technologies: Spring Boot (Backend), React (Frontend), MySQL
 
@@ -45,7 +45,6 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
   <a href="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/></a>
