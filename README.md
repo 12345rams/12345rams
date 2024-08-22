@@ -24,15 +24,10 @@
 
 ### EwasteCare | [Live Demo](https://e-wastecare.onrender.com/) | [GitHub](https://github.com/12345rams/ewastecare)
 - Comprehensive web application for buying/selling electronic items, locating recycling facilities, and building a sustainability-focused community.
-- Technologies: HTML, CSS, JavaScript, Node.js, MongoDB, Google Maps API.
-
-### Indiamart E-commerce Platform | [GitHub](https://github.com/12345rams/ecommerce)
-- Feature-rich e-commerce website with user authentication, social login, cookie management, and Redux state management.
-- Technologies: Node.js, MongoDB, Redux, Google Sign-In.
-
-### URL-Checker | [GitHub](https://github.com/12345rams/ecommerce)
-- Tech Stack: Node.js, [Frontend Tech], MongoDB, DataForSEO API, HTML5/CSS3/JS
-- Features: SEO Analysis, Dynamic Resource Loading, Browser-Like Rendering
+- Technologies: HTML, CSS, JavaScript, Node.js, MongoDB
+### Remote Team Collaboration Tool | [GitHub](https://github.com/12345rams/remote)
+- A comprehensive tool for remote team management, featuring user roles, task assignments, project tracking, and progress monitoring. Integrated with Spring Security for enhanced security and authentication.
+- Technologies: Spring Boot (Backend), React (Frontend), MySQL
 
 <!-- Connect Section -->
 <h3 align="left">Connect with me:</h3>
@@ -63,7 +58,7 @@
 ### Web Developer Intern | [Toriox Data](https://torioxdata.net/)
 - **Duration:** Sept 5, 2023 - Jan 2024
 - **Location:** Remote
-- Leading a team in web development projects with a diverse tech stack including JavaScript, jQuery, MySQL, PHP, Bootstrap, and security implementation.
+- Leading a team in web development projects with a diverse tech stack including JavaScript, jQuery, MySQL, Bootstrap, and security implementation.
 - Contributing to database management and optimization using MySQL.
 
 ### Open Source Contributor - Hacktoberfest
@@ -82,4 +77,4 @@
 <!-- Contact Section -->
 ## 📫 Let's Connect!
 
-Feel free to reach out to me at vijay9005442298@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/ram-vijay-yadav-a777b4272). 
+Feel free to reach out to me at vijay9005442298@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/ram-vijay-yadav-a777b4272).
