@@ -21,14 +21,14 @@
 
 <!-- Projects Section -->
 ## 🚀 Projects
+### Remote Team Collaboration Tool | [Live Demo](https://remote-theta.vercel.app/)[GitHub](https://github.com/12345rams/remote)
+- A comprehensive tool for remote team management, featuring user roles, task assignments, project tracking, and progress monitoring. Integrated with Spring Security for enhanced security and authentication.
+- Technologies: Spring Boot (Backend), React (Frontend), MySQL
 
 ### EwasteCare | [Live Demo](https://e-wastecare.onrender.com/) | [GitHub](https://github.com/12345rams/ewastecare)
 - Comprehensive web application for buying/selling electronic items, locating recycling facilities, and building a sustainability-focused community.
 - Technologies: HTML, CSS, JavaScript, Node.js, MongoDB
-### Remote Team Collaboration Tool | [GitHub](https://github.com/12345rams/remote)
-- A comprehensive tool for remote team management, featuring user roles, task assignments, project tracking, and progress monitoring. Integrated with Spring Security for enhanced security and authentication.
-- Technologies: Spring Boot (Backend), React (Frontend), MySQL
-
+- 
 <!-- Connect Section -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
