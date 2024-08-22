@@ -21,7 +21,7 @@
 
 <!-- Projects Section -->
 ## 🚀 Projects
-### Remote Team Collaboration Tool | [Live Demo]| (https://remote-theta.vercel.app/)[GitHub](https://github.com/12345rams/remote)
+### Remote Team Collaboration Tool | [Live Demo](https://remote-theta.vercel.app/)| [GitHub](https://github.com/12345rams/remote)
 - A comprehensive tool for remote team management, featuring user roles, task assignments, project tracking, and progress monitoring. Integrated with Spring Security for enhanced security and authentication.
 - Technologies: Spring Boot (Backend), React (Frontend), MySQL
 
