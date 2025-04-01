@@ -77,7 +77,6 @@
 ## 📫 Let's Connect!
 
 Feel free to reach out to me at vijay9005442298@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/ram-vijay-yadav-a777b4272).
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=harshvyas-22&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=12345rams&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
