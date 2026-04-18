@@ -1,7 +1,12 @@
 <!-- Header Section -->
-<p align="center"></p>
-<h1 align="center">Hi there! 👋 I'm Harsh Vyas </h1>
-<p>Motivated and enthusiastic Full Stack Software Engineer with a proven track record of success in projects. Experienced in the latest technologies, adept at efficient team management, showcasing both technical and leadership skills. Eager to bring expertise to new challenges. Open to new opportunities and collaborations.</p>
+<h1 align="center">Hi there! 👋 I'm Ram Vijay Yadav</h1>
+<p align="center">
+  Software Engineer | Competitive Programmer | Systems Enthusiast
+</p>
+
+<p>
+Highly motivated Software Engineer with hands-on experience at <b>Amazon</b> and <b>Microsoft</b>, specializing in low-latency systems, scalable backend architectures, and full-stack development. Strong problem-solving skills with top competitive programming rankings and a passion for building high-performance systems.
+</p>
 
 <!-- Connect Section -->
 <p align="center">
@@ -14,69 +19,70 @@
   <a href="mailto:vijay9005442298@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail">
   </a>
-  <a href="tel:+919569592952">
-    <img alt="Mobile" src="https://img.shields.io/badge/Mobile-Call-brightgreen?style=flat-square&logo=phone">
-  </a>
 </p>
 
-<!-- Projects Section -->
+---
+
+## 🚀 Experience
+
+### Software Engineer Intern | Amazon
+- Built a **low-latency anomaly detection system** for large-scale monitoring.
+- Designed **ticket aggregation & alert pipelines** improving response efficiency.
+- Developed **high-performance C++ tools** for system optimization.
+
+### Software Engineer Intern | Microsoft
+- Worked on **Word Agreement Automation Platform**.
+- Designed reusable **option data types** for flexible document workflows.
+- Built full-stack features using **TypeScript & C#**.
+
+---
+
 ## 🚀 Projects
-### Remote Team Collaboration Tool | [Live Demo](https://remote-theta.vercel.app/)| [GitHub](https://github.com/12345rams/remote)
-- A comprehensive tool for remote team management, featuring user roles, task assignments, project tracking, and progress monitoring. Integrated with Spring Security for enhanced security and authentication.
-- Technologies: Spring Boot (Backend), React (Frontend), MySQL
 
-### EwasteCare | [Live Demo](https://e-wastecare.onrender.com/) | [GitHub](https://github.com/12345rams/ewastecare)
-- Comprehensive web application for buying/selling electronic items, locating recycling facilities, and building a sustainability-focused community.
-- Technologies: HTML, CSS, JavaScript, Node.js, MongoDB
-- 
-<!-- Connect Section -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ram-vijay-yadav-a777b4272" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/ramvijay_24" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
-  <a href="https://leetcode.com/RamVijayYadav/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/ramvijay2406" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" /></a>
-</p>
+### 🔹 Low Latency Order Book & Matching Engine (C++)
+- Designed a **high-frequency trading system simulation**.
+- Implemented **efficient order matching with optimized data structures**.
 
-<!-- Languages and Tools Section -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-</p>
+### 🔹 Remote Team Collaboration Tool
+- Built a scalable platform for **team management & task tracking**.
+- Reduced delays by **25%** and improved efficiency by **40%**.
+- Tech: Spring Boot, React, MySQL
 
-<!-- Experience Section -->
-## 💼 Experience
+### 🔹 RouteWise
+- Real-time **bus tracking & communication platform**.
+- Integrated **live updates and chat system**.
 
-### Web Developer Intern | [Toriox Data](https://torioxdata.net/)
-- **Duration:** Sept 5, 2023 - Jan 2024
-- **Location:** Remote
-- Leading a team in web development projects with a diverse tech stack including JavaScript, jQuery, MySQL, Bootstrap, and security implementation.
-- Contributing to database management and optimization using MySQL.
+---
 
-### Open Source Contributor - Hacktoberfest
-- **Duration:** Oct 2023
-- Actively participated in Hacktoberfest, contributing to various open source projects and collaborating within the global developer community.
-- Demonstrated strong problem-solving skills using Git and GitHub for efficient code management.
-
-<!-- Achievements Section -->
 ## 🏆 Achievements
-- Winner of NIT Hackathon (twice). [Certificate](https://drive.google.com/file/d/1dPS9Z9Rx-P8AGrEnAb83jQei7a1RBkg8/view?usp=drivesdk)
-- 3-star rating on CodeChef. [CodeChef](https://www.codechef.com/users/ramvijay_24)
-- 1300+ rating on Codeforces. [Codeforces](https://codeforces.com/profile/ramvijay_24)
-- 1800+ rating on LeetCode. [LeetCode](https://leetcode.com/RamVijayYadav/)
-- Reliance Foundation Scholar.
 
-<!-- Contact Section -->
+- 🥇 2× Inter-NIT Hackathon Winner  
+- 💻 LeetCode Rating: **2000+ (Top 3.7%)**  
+- ⚡ Codeforces: **Specialist (1470+)**  
+- ⭐ CodeChef: **4★ (1800+)**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** C++, JavaScript, TypeScript  
+**Backend:** Node.js, Spring Boot  
+**Frontend:** React  
+**Databases:** MySQL, MongoDB  
+
+**Core Skills:**
+- Low Latency Systems  
+- Multithreading & Concurrency  
+- System Design  
+- Data Structures & Algorithms  
+
+---
+
 ## 📫 Let's Connect!
 
-Feel free to reach out to me at vijay9005442298@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/ram-vijay-yadav-a777b4272).
+- 📧 Email: vijay9005442298@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/ram-vijay-yadav-a777b4272  
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=12345rams&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=12345rams&theme=dark" height="200" />
 </div>
