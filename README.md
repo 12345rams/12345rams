@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center"></p>
-<h1 align="center">Hi there! 👋 I'm Ram Vijay Yadav</h1>
+<h1 align="center">Hi there! 👋 I'm Harsh Vyas/h1>
 <p>Motivated and enthusiastic Full Stack Software Engineer with a proven track record of success in projects. Experienced in the latest technologies, adept at efficient team management, showcasing both technical and leadership skills. Eager to bring expertise to new challenges. Open to new opportunities and collaborations.</p>
 
 <!-- Connect Section -->
